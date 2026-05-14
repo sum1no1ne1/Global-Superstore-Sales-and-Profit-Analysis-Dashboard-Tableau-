@@ -1,5 +1,5 @@
 # Global-Superstore-Sales-and-Profit-Analysis-Dashboard-Tableau-
-GitHub Project Description (README)
+
 Global Superstore Sales and Profit Analysis Dashboard (Tableau)
 
 This project presents an interactive business intelligence dashboard built using Tableau, based on the Global Superstore dataset. The objective of the project is to analyze sales performance, profitability, customer trends, and regional variations to support data-driven decision-making.
